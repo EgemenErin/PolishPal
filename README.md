@@ -3,6 +3,9 @@
 
 This Python-based flashcard application helps users learn Polish vocabulary effectively. The program displays flashcards with Polish words and their English translations, allowing users to test their knowledge interactively. Known words are removed from the deck to focus on learning new vocabulary.
 
+<img width="887" alt="image" src="https://github.com/EgemenErin/PolishPal/assets/113554575/c40a5af3-9fb3-4729-bd1e-3cf4877eeaac">
+
+
 ## Features
 
 - **Interactive Flashcards**: Displays Polish words with an option to flip the card and view the English translation after a delay.
