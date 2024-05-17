@@ -38,7 +38,7 @@ def known_word():
 
 #initialize the main window
 window = Tk()
-window.title("Polish Cards")
+window.title("PolPal")
 window.config(padx=50, pady=50, background=BACKGROUND_COLOR)
 
 #create PhotoImage objects
