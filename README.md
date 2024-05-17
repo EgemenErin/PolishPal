@@ -14,8 +14,8 @@ This Python-based flashcard application helps users learn Polish vocabulary effe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/polish-flashcards.git
-   cd polish-flashcards
+   git clone https://github.com/EgemenErin/PolishPal.git
+   cd PolishPal
    ```
 
 2. **Install Dependencies**:
@@ -24,17 +24,9 @@ This Python-based flashcard application helps users learn Polish vocabulary effe
    pip install pandas
    ```
 
-3. **Prepare Data**:
-   Place your Polish words dataset (`polish_words.csv`) in the `data` directory. Ensure the CSV file has the following structure:
-   ```plaintext
-   Polish,English
-   słowo,word
-   ...
-   ```
-
-4. **Run the Application**:
+3. **Run the Application**:
    ```bash
-   python flashcards.py
+   python PolishPal.py
    ```
 
 ## Usage
@@ -67,7 +59,3 @@ polish-flashcards/
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
